@@ -1,11 +1,20 @@
 # useful-resources
-Here are some of the useful resources that can increase your efficiency
+A collection of tools and shortcuts that increase efficiency
 
 ---------------------------------
 # VS Code Shortcuts & Resources
 
+🔗 Most used VS Code Shortcuts -By smoljames
+https://www.vscodeshortcuts.smoljames.com/
+
+
 🔗 VS Code Shortcuts (Official)  
 https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 
-Other useful resources:
+
+## Why use these?
+Using these shortcuts made a huge difference in my workflow. One example is `Ctrl + /`, which allows you to comment lines quickly regardless of the file type.
+
+------------------------------
+
 
