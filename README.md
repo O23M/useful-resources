@@ -4,7 +4,7 @@ A collection of tools and shortcuts that increase efficiency
 ---------------------------------
 # VS Code Shortcuts & Resources
 
-🔗 Most used VS Code Shortcuts -By smoljames
+🔗 Most used VS Code Shortcuts -By smoljames <br>
 https://www.vscodeshortcuts.smoljames.com/
 
 
