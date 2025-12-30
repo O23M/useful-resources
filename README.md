@@ -17,12 +17,12 @@ Using these shortcuts made a huge difference in my workflow. One example is `Ctr
 
 ------------------------------
 
-🔗 HTML Cheatsheet
+🔗 HTML Cheatsheet<br>
 https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Cheatsheet
 
 ------------------------------
 
-🔗 Game engines
+🔗 Game engines<br>
 https://github.com/collections/game-engines
 ------------------------------
 
